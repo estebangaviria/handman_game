@@ -21,7 +21,7 @@ def quitar_caracteres(letra):
 
     return letra_unicode
 
-
+#Función principal
 def run():
     #Leer datos de un .txt y pasarlos a una lista:
     my_list =[]
